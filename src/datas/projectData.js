@@ -29,7 +29,7 @@ export const projects = [
       url: {
         github: "https://github.com/SW-Yerim/InvitationAPI",
         live: "https://sw-yerim.github.io/InvitationAPI",
-        tistory: "https://wooye.tistory.com/27",
+        tistory: "https://wooye.tistory.com/30",
       },
       features: [
         "페이지 진입 시 로딩창 출력",
