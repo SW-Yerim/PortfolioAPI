@@ -27,8 +27,8 @@ export const projects = [
         "🎯 반응형으로 제작되어 모바일 환경에서도 최적화된 UI를 제공합니다.",
       ],
       url: {
-        github: "https://github.com/SW-Yerim/InvitationAPI",
-        live: "https://sw-yerim.github.io/InvitationAPI",
+        github: "https://github.com/SW-Yerim/PortfolioAPI",
+        live: "https://sw-yerim.github.io/PortfolioAPI",
         tistory: "https://wooye.tistory.com/30",
       },
       features: [
