@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortfolioAPI/static/css/main.97b08663.css",
-    "main.js": "/PortfolioAPI/static/js/main.bce9117b.js",
+    "main.js": "/PortfolioAPI/static/js/main.33bdaef1.js",
     "static/js/453.1407b060.chunk.js": "/PortfolioAPI/static/js/453.1407b060.chunk.js",
     "static/media/AppleSDGothicNeoT.ttf": "/PortfolioAPI/static/media/AppleSDGothicNeoT.fcecbefb26f42648e756.ttf",
     "static/media/AppleSDGothicNeoUL.ttf": "/PortfolioAPI/static/media/AppleSDGothicNeoUL.cd06c3e96c513e91c777.ttf",
@@ -46,11 +46,11 @@
     "static/media/close.svg": "/PortfolioAPI/static/media/close.d6c1c5b71964c5c2ac00bd1340257fc6.svg",
     "static/media/close-w.svg": "/PortfolioAPI/static/media/close-w.44c02c49fc52cb89762a22079779072b.svg",
     "main.97b08663.css.map": "/PortfolioAPI/static/css/main.97b08663.css.map",
-    "main.bce9117b.js.map": "/PortfolioAPI/static/js/main.bce9117b.js.map",
+    "main.33bdaef1.js.map": "/PortfolioAPI/static/js/main.33bdaef1.js.map",
     "453.1407b060.chunk.js.map": "/PortfolioAPI/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97b08663.css",
-    "static/js/main.bce9117b.js"
+    "static/js/main.33bdaef1.js"
   ]
 }
